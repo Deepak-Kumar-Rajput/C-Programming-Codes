@@ -572,7 +572,8 @@ int main()
     }
 }
 
-25. Write a program to compute Sin(x) using Taylor series approximation. Compare your result with the built-in Library function. Print both the result with appropriate messages
+25. Write a program to compute Sin(x) using Taylor series approximation. Compare your result with the built-in Library function.
+Print both the result with appropriate messages
 
 #include <stdio.h>
 #include <math.h>
@@ -598,7 +599,7 @@ int main()
     printf("Inbuilt function Sin(%f) = %f \n", deg, sin(x));
     printf("User function Sin(%f) = %f", deg, sum);
 }
-26. Write a program to sort the given set of N numbers using Bubble sort
+26. Write a program to sort the given set of N numbers using Bubble sort..................................
 
 #include <stdio.h>
 int main()
@@ -626,7 +627,8 @@ int main()
         printf("%d\n", a[i]);
 }
 
-27. Write a program to find the square root of a given number N and execute for all possible Inputs with appropriate messages. Note: Don’t use library function sqrt(n)
+27. Write a program to find the square root of a given number N and execute for all possible Inputs with appropriate messages.
+Note: Don’t use library function sqrt(n)
 
 #include <stdio.h>
 int main()
@@ -644,7 +646,8 @@ int main()
     printf("The square root of the number is %f", sqrt);
 }
 
-28. Implement structures to read, write, and compute average marks and the students scoring above and below the average marks for a class of N students
+28. Implement structures to read, write, and compute average marks and the students scoring above and below the average marks 
+for a class of N students
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -721,7 +724,7 @@ int main()
     printf("Standard Deviation = %f", std);
 }
 
-30. Implement Recursive functions for binary to Decimal Conversion
+30. Implement Recursive functions for binary to Decimal Conversion......................................
 
 #include <stdio.h>
 int binarytodecimal(int binarynum)
@@ -739,7 +742,8 @@ int main()
     return 0;
 }
 
-31. Write a function to implement string operations such as compare, concatenate, string length. Convince the parameters passing techniques
+31. Write a function to implement string operations such as compare, concatenate, string length. Convince the parameters 
+passing techniques
 
 #include <stdio.h>
 #include <string.h>
@@ -843,7 +847,7 @@ int main() {
     printf ("sum of even indexing : %d",sum);
 }
 
-33.  swap numbers
+33.  ................................................swap numbers....................................................
 
 #include<stdio.h>
 //swap number
@@ -872,7 +876,7 @@ int main() {
     return 0;
 }
 
-35.  set unset bits
+35.  ...................................set unset bits...............................................................
 
 #include<stdio.h>
 int main() {
@@ -917,7 +921,7 @@ int main() {
     }
 }
 
-37.  reverse pallindrome
+37.  ................................................reverse pallindrome.................................................
 #include<stdio.h>
 //reverse and pallindrome   121
 int main() {
@@ -940,7 +944,7 @@ int main() {
     }
 }
 
-38.  cartesian plane
+38.  ..............................................cartesian plane................................................
 #include <stdio.h>
 int main() {
     int x,y;
@@ -967,7 +971,7 @@ int main() {
     return 0;
 }
 
-39.  reverse array
+39.  ..................................................reverse array.....................................
 #include<stdio.h>
 int main() {
     int n; 
@@ -988,7 +992,7 @@ int main() {
     }
 }
 
-40. aramstrong number
+40. .........................................aramstrong number.................................................
 #include<stdio.h>
 #include<math.h>
 // Armstrong   153
@@ -1016,3 +1020,6 @@ int main() {
     else {
         printf ("Given number is not a armstrong.");
     }
+#####################################################################################################################
+
+.
